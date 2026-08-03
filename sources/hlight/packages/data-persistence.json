@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.data-persistence",
+  "displayName": "com.hlight.data-persistence",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-DataPersistence.git",
+        "targetPath": "Packages/com.hlight.data-persistence"
+      }
+    ]
+  }
+}
