@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.editor-asset-shortcut",
+  "displayName": "com.hlight.editor-asset-shortcut",
+  "dependencies": [
+    {
+      "id": "com.hlight.editor-toolbar-customizer"
+    }
+  ],
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-EditorAssetShortcut.git",
+        "targetPath": "Packages/com.hlight.editor-asset-shortcut"
+      }
+    ]
+  }
+}
