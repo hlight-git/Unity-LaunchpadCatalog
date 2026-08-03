@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "kind": "feature",
+  "id": "default-folder-tree",
+  "displayName": "Default Folder Tree",
+  "desiredState": [
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Animations"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Animations/BuiltIn"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Animations/Spine"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Common"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Gameplay"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/2D/Material"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/3D"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/3D/Material"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/Font"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/Font/Resources"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Art/UI"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Audio"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Audio/Music"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Audio/Sfx"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Prefab"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Scene"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/ScriptableObject"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/Shader"
+    },
+    {
+      "type": "project.folder.ensure",
+      "path": "Assets/0_DevRoot/0_Script"
+    }
+  ]
+}
