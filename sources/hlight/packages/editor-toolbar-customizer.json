@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.editor-toolbar-customizer",
+  "displayName": "com.hlight.editor-toolbar-customizer",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "git@github.com:hlight-git/Unity-EditorToolbarCustomizer.git",
+        "targetPath": "Packages/com.hlight.editor-toolbar-customizer"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "git@github.com:hlight-git/Unity-EditorToolbarCustomizer.git",
+        "path": "Packages/com.hlight.editor-toolbar-customizer"
+      }
+    ]
+  }
+}
