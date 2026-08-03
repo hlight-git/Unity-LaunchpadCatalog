@@ -10,12 +10,12 @@
     "installations": [
       {
         "type": "git-submodule",
-        "repositoryUrl": "git@github.com:hlight-git/Unity-EditorToolbarCustomizer.git",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-EditorToolbarCustomizer.git",
         "targetPath": "Packages/com.hlight.editor-toolbar-customizer"
       },
       {
         "type": "embedded",
-        "repositoryUrl": "git@github.com:hlight-git/Unity-EditorToolbarCustomizer.git",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-EditorToolbarCustomizer.git",
         "path": "Packages/com.hlight.editor-toolbar-customizer"
       }
     ]
