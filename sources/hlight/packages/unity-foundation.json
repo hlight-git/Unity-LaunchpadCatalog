@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.unity-foundation",
+  "displayName": "com.hlight.unity-foundation",
+  "dependencies": [
+    {
+      "id": "com.hlight.dependency-inversion"
+    },
+    {
+      "id": "com.cysharp.unitask"
+    }
+  ],
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Foundation.git",
+        "targetPath": "Packages/com.hlight.unity-foundation"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Foundation.git",
+        "path": "Packages/com.hlight.unity-foundation"
+      }
+    ]
+  }
+}
