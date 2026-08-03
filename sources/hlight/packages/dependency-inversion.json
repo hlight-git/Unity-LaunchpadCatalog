@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.dependency-inversion",
+  "displayName": "com.hlight.dependency-inversion",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "git@github.com:hlight-git/Unity-DependencyInversion.git",
+        "targetPath": "Packages/com.hlight.dependency-inversion"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "git@github.com:hlight-git/Unity-DependencyInversion.git",
+        "path": "Packages/com.hlight.dependency-inversion"
+      }
+    ]
+  }
+}
