@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.debug-hub",
+  "displayName": "com.hlight.debug-hub",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-DebugHub.git",
+        "targetPath": "Packages/com.hlight.debug-hub"
+      }
+    ]
+  }
+}
