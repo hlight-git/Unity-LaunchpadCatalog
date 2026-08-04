@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.soct",
+  "displayName": "com.hlight.soct",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-SOCT.git",
+        "targetPath": "Packages/com.hlight.soct"
+      }
+    ]
+  }
+}
