@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.view-presentation",
+  "displayName": "com.hlight.view-presentation",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-ViewPresentation.git",
+        "path": "Packages/com.hlight.view-presentation"
+      }
+    ]
+  }
+}
