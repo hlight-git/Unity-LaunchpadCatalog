@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.logging",
+  "displayName": "com.hlight.logging",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Logging.git",
+        "path": "Packages/com.hlight.logging"
+      }
+    ]
+  }
+}
