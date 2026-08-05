@@ -10,12 +10,12 @@
     "installations": [
       {
         "type": "git-submodule",
-        "repositoryUrl": "git@github.com:hlight-git/Unity-DependencyInversion.git",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-DependencyInversion.git",
         "targetPath": "Packages/com.hlight.dependency-inversion"
       },
       {
         "type": "embedded",
-        "repositoryUrl": "git@github.com:hlight-git/Unity-DependencyInversion.git",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-DependencyInversion.git",
         "path": "Packages/com.hlight.dependency-inversion"
       }
     ]
