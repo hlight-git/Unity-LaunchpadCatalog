@@ -9,9 +9,9 @@
     ],
     "installations": [
       {
-        "type": "embedded",
+        "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-ViewPresentation.git",
-        "path": "Packages/com.hlight.view-presentation"
+        "targetPath": "Packages/com.hlight.view-presentation"
       }
     ]
   }
