@@ -12,6 +12,11 @@
         "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-DebugHub.git",
         "targetPath": "Packages/com.hlight.debug-hub"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-DebugHub.git",
+        "path": "Packages/com.hlight.debug-hub"
       }
     ]
   }
