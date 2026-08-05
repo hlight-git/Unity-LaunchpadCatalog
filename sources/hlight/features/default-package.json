@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "kind": "feature",
+  "id": "default-package",
+  "displayName": "Default Packages",
+  "desiredState": [
+    {
+      "type": "package.ensure",
+      "id": "com.cysharp.unitask"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.data-persistence"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.debug-hub"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.dependency-inversion"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.editor-asset-shortcut"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.editor-toolbar-customizer"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.logging"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.serialization"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.soct"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.unity-foundation"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.view-presentation"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.unity.addressables"
+    }
+  ]
+}
