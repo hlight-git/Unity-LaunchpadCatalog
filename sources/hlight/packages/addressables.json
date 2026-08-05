@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.unity.addressables",
+  "displayName": "Addressables",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "registry"
+      }
+    ]
+  }
+}
