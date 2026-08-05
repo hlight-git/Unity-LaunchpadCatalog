@@ -12,6 +12,11 @@
         "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-ViewPresentation.git",
         "targetPath": "Packages/com.hlight.view-presentation"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-ViewPresentation.git",
+        "path": "Packages/com.hlight.view-presentation"
       }
     ]
   }
