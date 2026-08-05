@@ -12,6 +12,11 @@
         "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-Serialization.git",
         "targetPath": "Packages/com.hlight.serialization"
+      },
+      {
+        "type": "git-upm",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Serialization.git",
+        "path": "Packages/com.hlight.serialization"
       }
     ]
   }
