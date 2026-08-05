@@ -12,6 +12,11 @@
         "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-SOCT.git",
         "targetPath": "Packages/com.hlight.soct"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-SOCT.git",
+        "path": "Packages/com.hlight.soct"
       }
     ]
   }
