@@ -17,6 +17,11 @@
         "type": "git-submodule",
         "repositoryUrl": "https://github.com/hlight-git/Unity-EditorAssetShortcut.git",
         "targetPath": "Packages/com.hlight.editor-asset-shortcut"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-EditorAssetShortcut.git",
+        "path": "Packages/com.hlight.editor-asset-shortcut"
       }
     ]
   }
