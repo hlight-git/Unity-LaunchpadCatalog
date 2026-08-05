@@ -9,7 +9,12 @@
     ],
     "installations": [
       {
-        "type": "embedded",
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Logging.git",
+        "targetPath": "Packages/com.hlight.logging"
+      },
+      {
+        "type": "git-upm",
         "repositoryUrl": "https://github.com/hlight-git/Unity-Logging.git",
         "path": "Packages/com.hlight.logging"
       }
