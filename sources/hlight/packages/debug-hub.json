@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "kind": "package",
   "id": "com.hlight.debug-hub",
-  "displayName": "com.hlight.debug-hub",
+  "displayName": "Debug Hub",
   "offer": {
     "releases": [
       {}
