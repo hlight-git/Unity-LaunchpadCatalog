@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.resource-bag",
+  "displayName": "Resource Bag",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-ResourceBag.git",
+        "targetPath": "Packages/com.hlight.resource-bag"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-ResourceBag.git",
+        "path": "Packages/com.hlight.resource-bag"
+      }
+    ]
+  }
+}
