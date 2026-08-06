@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.asset-auditor",
+  "displayName": "Asset Auditor",
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-AssetAuditor.git",
+        "targetPath": "Packages/com.hlight.asset-auditor"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-AssetAuditor.git",
+        "path": "Packages/com.hlight.asset-auditor"
+      }
+    ]
+  }
+}
