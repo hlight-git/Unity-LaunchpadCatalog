@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "kind": "package",
+  "id": "com.hlight.audio",
+  "displayName": "Hlight Audio",
+  "dependencies": [
+    {
+      "id": "com.cysharp.unitask"
+    },
+    {
+      "id": "com.unity.addressables"
+    }
+  ],
+  "offer": {
+    "releases": [
+      {}
+    ],
+    "installations": [
+      {
+        "type": "git-submodule",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Audio.git",
+        "targetPath": "Packages/com.hlight.audio"
+      },
+      {
+        "type": "embedded",
+        "repositoryUrl": "https://github.com/hlight-git/Unity-Audio.git",
+        "path": "Packages/com.hlight.audio"
+      }
+    ]
+  }
+}
