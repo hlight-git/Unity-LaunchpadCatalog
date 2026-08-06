@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "kind": "package",
   "id": "com.hlight.dependency-inversion",
-  "displayName": "com.hlight.dependency-inversion",
+  "displayName": "Dependency Inversion",
   "offer": {
     "releases": [
       {}
