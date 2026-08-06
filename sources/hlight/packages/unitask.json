@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "kind": "package",
   "id": "com.cysharp.unitask",
-  "displayName": "com.cysharp.unitask",
+  "displayName": "Unitask",
   "offer": {
     "releases": [
       {}
