@@ -51,6 +51,14 @@
     {
       "type": "package.ensure",
       "id": "com.unity.addressables"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.audio"
+    },
+    {
+      "type": "package.ensure",
+      "id": "com.hlight.resource-bag"
     }
   ]
 }
